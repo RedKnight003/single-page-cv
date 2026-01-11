@@ -1,9 +1,9 @@
-body { 
- font-family: Sans-Serif , Arial ,Helvetica;
- line-height:1.6;
- margin: 20px;
- color: #333;
- background-color: #f9f9f9;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    color: #333;
+    background-color: #f9f9f9;
 }
 
 h1 {
@@ -12,10 +12,12 @@ h1 {
 
 h2 {
     color: #555;
-    font-weight: noraml;
+    font-weight: normal;
 }
 
-h3 { color: #2e7d32;
-     border border-bottom: 2px solid #2e7d32;
-     padding-bottom: 4px;
+h3 {
+    color: #2e7d32;
+    border-bottom: 2px solid #2e7d32;
+    padding-bottom: 4px;
 }
+
